@@ -118,7 +118,7 @@ public class MainWindown extends JFrame {
 	        	lable.setText("重命名全部正常结束");
 	        }catch (Exception e){
 	        	e.printStackTrace();
-	        	lable.setText("重命名是发生错误");
+	        	lable.setText("重命名是发生错误111");
 	        }
 	        
 	}
